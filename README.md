@@ -36,7 +36,8 @@ Edytuj pliki `.env` znajdujące się wewnątrz folderów `web` i `mobile`.
 2. Załaduj tabele z pliku `quiz.sql`.
 3. Przejdź do folderu `server`.
 4. Zainstaluj zależności poprzez wykonanie komendy `npm i`.
-5. Uruchom serwer poprzez `node index.js`.
+5. Edytuj dane logowania do twojej bazy mysql w pliku index.js
+6. Uruchom serwer poprzez `node index.js`.
 
 ### 4. Uruchomienie aplikacji React:
 1. Przejdź do folderu `web`.
