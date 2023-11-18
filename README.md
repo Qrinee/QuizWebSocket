@@ -10,11 +10,15 @@ Witaj w QuizWebSocket! Ta aplikacja umożliwia hostowanie pytań, a uczestnicy m
 - NodeJS
 
 ## 📱 Screeny z aplikacji:
-<div style="display: flex; flex-wrap: wrap;">
-<img src="https://i.imgur.com/oJKyMfm.png" height="300" />
-<img src="https://i.imgur.com/BtgDGaJ.png" height="300" />
-<img src="https://i.imgur.com/QrOyPsS.jpg" height="300" />
-<img src="https://i.imgur.com/2gwPz3o.jpg" height="300" />
+<div style="display: flex;">
+<div>
+  <img src="https://i.imgur.com/oJKyMfm.png" height="300" />
+  <img src="https://i.imgur.com/BtgDGaJ.png" height="300" />
+</div>
+<div>
+  <img src="https://i.imgur.com/QrOyPsS.jpg" height="300" />
+  <img src="https://i.imgur.com/2gwPz3o.jpg" height="300" />
+</div>
 </div>
 ## Jak uruchomić?
 
