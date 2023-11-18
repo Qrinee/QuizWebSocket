@@ -18,6 +18,7 @@ Witaj w QuizWebSocket! Ta aplikacja umożliwia hostowanie pytań, a uczestnicy m
 <div>
   <img src="https://i.imgur.com/QrOyPsS.jpg" height="300" />
   <img src="https://i.imgur.com/2gwPz3o.jpg" height="300" />
+  <img src="https://i.imgur.com/SedsAbe.jpg" height="300" />
 </div>
 </div>
 ## Jak uruchomić?
