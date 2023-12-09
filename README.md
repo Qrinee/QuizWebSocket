@@ -22,6 +22,7 @@ Witaj w QuizWebSocket! Ta aplikacja umożliwia hostowanie pytań, a uczestnicy m
   <img src="https://i.imgur.com/SedsAbe.jpg" height="300" />
 </div>
 </div>
+
 ## Jak uruchomić?
 
 ### 1. Konfiguracja plików środowiskowych:
